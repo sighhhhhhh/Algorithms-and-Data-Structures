@@ -1,7 +1,7 @@
 public class Item {
     private ItemType type;
     private int value = Integer.MAX_VALUE;
-
+//testing
     public Item (ItemType t, int x){
         type = t;
         value = x;
